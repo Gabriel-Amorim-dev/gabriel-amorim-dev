@@ -2,7 +2,7 @@
 
 **CC Student**
 
-Me chamo Gabriel Gonçalves, tenhon 18 anos e sou natural de João Pessoa - Paraíba, atualmente estudo Ciências da Computação e trabalho em projetos de coding, sempre pensando em como posso utilizar a programação para auxiliar nos problemas que enfrentamos.
+Me chamo Gabriel Gonçalves, tenho 18 anos e sou natural de João Pessoa - Paraíba, atualmente estudo Ciências da Computação e trabalho em projetos de coding, sempre pensando em como posso utilizar a programação para auxiliar nos problemas que enfrentamos.
 
 ### 💻 Tecnologias e Ferramentas
 
