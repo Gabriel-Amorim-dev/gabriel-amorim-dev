@@ -14,4 +14,4 @@ Me chamo Gabriel Gonçalves, tenho 18 anos e sou natural de João Pessoa - Para�
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
-#
+#https://github-readme-stats.vercel.app/api?username=Gabriel-Amorim-dev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF
